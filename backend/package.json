@@ -7,7 +7,7 @@
   "scripts": {
     "build": "tsc",
     "dev": "nodemon src/index.ts",
-    "start": "node src/index.ts",
+    "start": "node dist/index.ts",
     "test": "jest"
   },
   "devDependencies": {
