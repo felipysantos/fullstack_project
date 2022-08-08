@@ -40,6 +40,7 @@ const Header = () => {
           h={"auto"}
           color={"#29abe2"}
           display={{ base: "block", lg: "none" }}
+          _focus={"none"}
         >
           <HiOutlineMenuAlt2 />
         </Button>
