@@ -5,11 +5,13 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
+    "build": "tsc",
     "dev": "nodemon src/index.ts",
     "start": "node src/index.ts",
     "test": "jest"
   },
   "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1",
     "@types/node": "^18.6.4",
     "nodemon": "^2.0.19",
     "sucrase": "^3.25.0",
