@@ -4,11 +4,6 @@ Desenvolvimento de uma landingpage completa, incluindo frontend com React e back
 ![Screenshot_1](https://user-images.githubusercontent.com/45580434/79641791-06e1c100-8170-11ea-8ecf-b6c889805d55.png)
 <br><br>
 
-# FullStack - Projeto Final: Spotenu
-
-:dash: [Deploy da aplicação](https://fullstack-alpha.vercel.app/)
-
-<br><br>
 
 ## Principais linguagens e tecnologias utilizadas
 
