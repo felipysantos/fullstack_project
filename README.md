@@ -45,7 +45,7 @@ A funcionalidade do projeto é bem simples, o sistema de cadastro de usuários e
 
 <br><br>
 
-### Instruções para uso local do Backend
+- ### Instruções para uso local do Backend
 
     1. Clone o repositório
     2. Acesse a pasta **backend**
