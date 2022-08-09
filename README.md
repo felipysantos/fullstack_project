@@ -61,8 +61,8 @@ A aplicação faz uma requisição do tipo GET, buscando a lista dos usuários c
 
 <br>
 
-### Instruções para uso local do Frontend
-- 
+- ### Instruções para uso local do Frontend
+ 
     1. Clone o repositório
     2. Acesse a pasta **frontend**
     3. Instale as dependências através do comando **yarn**
