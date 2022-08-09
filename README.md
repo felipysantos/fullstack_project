@@ -78,7 +78,7 @@ A aplicação faz uma requisição do tipo GET, buscando a lista dos usuários c
 
 ## Canais de comunicação
 
-**Felipy Santos**: *Desenvolvedor full-stack | Designer | 
+**Felipy Santos**: **Desenvolvedor full-stack | Designer** 
 
 - [Linkedin](https://www.linkedin.com/in/felipy-santos/)
 - [Github](https://github.com/felipysantos)
