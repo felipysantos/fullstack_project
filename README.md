@@ -1,10 +1,6 @@
 # Full-Stack Web Project
 Desenvolvimento de uma landingpage completa, incluindo frontend com React e backend com NodeJS. 
 
-![Screenshot_1](https://user-images.githubusercontent.com/45580434/79641791-06e1c100-8170-11ea-8ecf-b6c889805d55.png)
-<br><br>
-
-
 ## Principais linguagens e tecnologias utilizadas
 
 <br>
@@ -32,6 +28,7 @@ Desenvolvimento de uma landingpage completa, incluindo frontend com React e back
 ## Escopo do projeto
 
 A funcionalidade do projeto é bem simples, o sistema de cadastro de usuários envia para o banco de dados as informações coletadas no formulário, basta passar em todas as verificações.  
+
 <br>
 
 ### Backend
@@ -48,7 +45,7 @@ A funcionalidade do projeto é bem simples, o sistema de cadastro de usuários e
 
 <br><br>
 
-- **Instruções para uso local do Backend**
+### Instruções para uso local do Backend
 
     1. Clone o repositório
     2. Acesse a pasta **backend**
@@ -64,10 +61,7 @@ A aplicação faz uma requisição do tipo GET, buscando a lista dos usuários c
 
 <br>
 
-
-<br><br>
-
-- **Instruções para uso local do Frontend**
+### Instruções para uso local do Frontend
 
     1. Clone o repositório
     2. Acesse a pasta **frontend**
@@ -78,9 +72,6 @@ A aplicação faz uma requisição do tipo GET, buscando a lista dos usuários c
     
 <br><br>
 
-
-
-<br><br>
 
 
 ## Canais de comunicação
